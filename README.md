@@ -1,4 +1,4 @@
 # Text_To_Voice_Converter
 You can convert your text to voice. First of all put your name and then it will greet you. Then put your text in the box and click on the Listen button. You will hear what you wrote. 
 
-This is one my practice projects. Developers can use this code as Open Souece Project.
+This is one of my practice projects. Developers can use this code as Open Souece Project.
